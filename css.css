@@ -1,0 +1,729 @@
+div#mw-panel div.portal h5 {
+    color: #d99b00
+}
+
+div.vectorMenu div.menu {
+    border-color: #f37f20
+}
+
+div.vectorMenu .vector-menu-heading span {
+    color: #d4d4d4
+}
+
+div.vectorMenu .vector-menu-heading span::after {
+    filter: invert(100%)
+}
+
+div.vectorMenu div.menu {
+    background-color: #303030
+}
+
+div.vectorMenu ul {
+    background-color: #303030;
+    border-color: #404040
+}
+
+div.vectorTabs li.selected {
+    background-color: #101010
+}
+
+div.vectorTabs ul li {
+    background-color: #101010
+}
+
+div.vectorTabs li a {
+    background-position: bottom right;
+    background-repeat: no-repeat
+}
+
+div.vectorTabs li.selected a,
+div.vectorTabs li.selected a:visited {
+    color: #e0e0e0
+}
+
+#p-cactions .menu {
+    background-color: #222;
+    border-color: #f37f20
+}
+
+div#mw-panel div.portal .vector-menu-heading,
+.vector-menu-heading .vector-menu-heading-label {
+    color: #f37f20
+}
+
+div#mw-panel div.portal div.body {
+    background-image: linear-gradient(90deg, transparent, #F37F20, transparent);
+    background-size: 100% 1px
+}
+
+div#mw-panel div.portal#p-socialProfiles div.body {
+    background-image: none
+}
+
+div#toc,
+div.toc,
+div.mw-warning {
+    background-color: #181818;
+    border-color: #080808
+}
+
+#mw-panel .portal .vector-menu-heading,
+#mw-panel .portal .vector-menu-heading a,
+#mw-panel .portal.collapsed .vector-menu-heading a {
+    color: #e0e0e0
+}
+
+.mw-changeslist-legend {
+    border-color: #505050 !important;
+    background-color: #060606 !important
+}
+
+div#simpleSearch {
+    background: #202020;
+    border: 1px solid #404040
+}
+
+div#simpleSearch #searchInput {
+    color: #e0e0e0
+}
+
+.suggestions-results,
+.suggestions-special {
+    background-color: #202020;
+    border-color: #404040
+}
+
+.suggestions-result {
+    background-color: #202020;
+    color: #e0e0e0
+}
+
+.suggestions-result-current {
+    background-color: #303030;
+    color: #e0e0e0
+}
+
+.suggestions-special .special-label {
+    color: gray
+}
+
+.suggestions-special .special-query {
+    color: #e0e0e0
+}
+
+.suggestions-result-current .special-label {
+    color: #a0a0a0
+}
+
+.suggestions-result .highlight {
+    color: orange;
+    font-weight: 400
+}
+
+#pagehistory li.selected {
+    color: #e0e0e0;
+    background-color: #181818;
+    border-color: #101010;
+    border-style: solid;
+    border-width: 1px 0
+}
+
+#pagehistory li:first-child {
+    border-width: 1px 0
+}
+
+#pagehistory li {
+    border-color: #282828;
+    border-style: dashed;
+    border-width: 0 0 1px
+}
+
+#preferences {
+    background-color: #282828;
+    background-image: none;
+    border-color: #404040
+}
+
+#preferences fieldset.prefsection fieldset {
+    border-color: #505050
+}
+
+#preftoc a,
+#preftoc a:active {
+    color: #5a93cc
+}
+
+ul#filetoc {
+    background-color: #181818;
+    border-color: #080808
+}
+
+#mw_metadata td {
+    background-color: var(--theme-page-background-color)
+}
+
+#mw_metadata th {
+    background-color: var(--theme-page-background-color--secondary)
+}
+
+pre,
+.mw-code {
+    background-color: #282828;
+    border-color: #505050;
+    color: #e0e0e0;
+    white-space: pre-wrap;
+    word-wrap: break-word
+}
+
+code {
+    color: #e0e0e0;
+    background-color: #181818;
+    border: 1px solid #383838
+}
+
+.mw-ui-container #userloginForm,
+.mw-ui-container #userloginForm,
+div#secondary-content {
+    border-color: #505050
+}
+
+.ui-widget-header {
+    background: #000 linear-gradient(to bottom, rgba(66, 66, 66, 1) 0%, rgba(0, 0, 0, 1) 100%) repeat scroll 0 0 !important;
+    border-color: #f37f20 !important;
+    color: #ddd
+}
+
+.mw-echo-ui-notificationItemWidget-initiallyUnseen .mw-echo-ui-notificationItemWidget-unread {
+    animation-name: inherit;
+    background-color: #520202
+}
+
+.mw-echo-ui-crossWikiNotificationItemWidget-group,
+.mw-echo-ui-bundleNotificationItemWidget-group {
+    background-color: #520202
+}
+
+body .ui-dialog .ui-widget-header {
+    background: #000 linear-gradient(to bottom, rgba(66, 66, 66, 1) 0%, rgba(0, 0, 0, 1) 100%) repeat scroll 0 0 !important
+}
+
+body .ui-dialog .ui-icon-closethick {
+    filter: invert(100%) !important
+}
+
+#mw-undelete-revision {
+    background-color: #282828;
+    border-color: #404040
+}
+
+div#content hr {
+    background-color: #505050;
+    color: #505050
+}
+
+div.wikiEditor-ui-buttons {
+    background-color: #181818;
+    border-color: #181818
+}
+
+div.wikiEditor-ui {
+    background-color: #202020;
+    border: 1px solid #505050
+}
+
+div.wikiEditor-ui-controls {
+    background-color: #181818;
+    border-bottom: 1px solid #505050
+}
+
+div.wikiEditor-ui-tabs {
+    background-color: #101010;
+    border-left: 1px solid #505050;
+    border-top: 1px solid #505050
+}
+
+div.wikiEditor-ui-tabs div {
+    background-color: #101010;
+    border-bottom: 1px solid #505050;
+    border-right: 1px solid #505050
+}
+
+div.wikiEditor-ui-tabs div a {
+    color: #e0e0e0
+}
+
+div.wikiEditor-ui-tabs div.current {
+    background-color: #202020;
+    border-bottom: 1px solid #202020
+}
+
+div.wikiEditor-ui-tabs div.current a {
+    color: #fff
+}
+
+div.wikiEditor-ui .wikiEditor-ui-top {
+    border-bottom: 1px solid #505050
+}
+
+div.wikiEditor-ui .wikiEditor-ui-view {
+    border: 1px solid #505050
+}
+
+div.wikiEditor-ui-toolbar {
+    background-color: #181818;
+    background-image: linear-gradient(totop, rgba(0, 0, 0, 1) 0 rgba(0, 0, 0, 0) 100%)
+}
+
+div.wikiEditor-ui-toolbar .group {
+    border-right: 1px solid #505050
+}
+
+div.wikiEditor-ui-toolbar .group-search {
+    border-left: 1px solid #505050;
+    border-right: none
+}
+
+div.wikiEditor-ui-toolbar .group .label,
+div.wikiEditor-ui-toolbar .group .tool-select .label {
+    color: #e0e0e0
+}
+
+div.wikiEditor-ui-toolbar .group .tool-select {
+    background-color: #353535;
+    border-color: #505050
+}
+
+div.wikiEditor-ui-toolbar .group .tool-select .menu .options {
+    background-color: #353535;
+    border-color: #505050
+}
+
+div.wikiEditor-ui-toolbar .group .tool-select .options .option {
+    color: #fff
+}
+
+div.wikiEditor-ui-toolbar .group .tool-select .options .option:hover {
+    background-color: #555
+}
+
+div.wikiEditor-ui-toolbar .tab {
+    border-color: transparent
+}
+
+div.wikiEditor-ui-toolbar .tabs span.tab a,
+div.wikiEditor-ui-toolbar .tabs span.tab a:visited {
+    color: #e0e0e0
+}
+
+div.wikiEditor-ui-toolbar .tabs span.tab a.current,
+div.wikiEditor-ui-toolbar .tabs span.tab a.current:visited {
+    color: #fff
+}
+
+div.wikiEditor-ui-toolbar .sections .section {
+    background-color: #353535;
+    border-top: 1px solid #505050
+}
+
+div.wikiEditor-ui-toolbar .booklet .index div {
+    color: #e0e0e0
+}
+
+div.wikiEditor-ui-toolbar .booklet .index .current {
+    background-color: #202020;
+    color: #fff
+}
+
+div.wikiEditor-ui-toolbar .booklet .pages {
+    background-color: #202020
+}
+
+div.wikiEditor-ui-toolbar .page-characters div span {
+    border: 1px solid #505050;
+    color: #e0e0e0
+}
+
+div.wikiEditor-ui-toolbar .page-characters div span:hover {
+    background-color: #353535;
+    border-color: #757575
+}
+
+div.wikiEditor-ui-toolbar .page-table td {
+    border-top: 1px solid #505050;
+    color: #e0e0e0
+}
+
+div.wikiEditor-ui .tool.oo-ui-buttonElement-frameless.oo-ui-iconElement:hover {
+    background-color: #353535;
+    outline-color: #505050
+}
+
+div.wikiEditor-ui-toolbar .sections .tool.oo-ui-buttonElement-frameless.oo-ui-iconElement:hover {
+    background-color: #555
+}
+
+div.wikiEditor-preview-contents,
+div.wikiEditor-preview-loading {
+    background-color: transparent
+}
+
+div.editOptions {
+    background-color: #181818;
+    border: 1px solid #505050;
+    color: #e0e0e0
+}
+
+.wikiEditor-ui-toolbar .section-main .group-codeeditor-main .oo-ui-toggleButtonWidget {
+    background-color: #181818 !important;
+    outline-color: #848080;
+    background: rgba(62, 59, 59, .5);
+    box-shadow: rgba(32, 32, 32, .2) 0 0
+}
+
+.codeEditor-status .codeEditor-status-worker-cell.ace_gutter-cell {
+    color: #000
+}
+
+.codeEditor-status-line {
+    color: #000
+}
+
+.codeEditor-status-message {
+    color: #000
+}
+
+.mw-scribunto-console-fieldset {
+    background: #000 none repeat scroll 0 0;
+    color: #fff
+}
+
+.mw-scribunto-message {
+    background: #000 none repeat scroll 0 0;
+    color: green
+}
+
+#msupload-div #msupload-list .file {
+    background-color: #353535;
+    border-bottom: #444;
+    border-top: #333
+}
+
+#msupload-div #msupload-list .green {
+    color: #ccc
+}
+
+#msupload-div #msupload-list .file .file-title,
+#msupload-div #msupload-list .file .file-size,
+#msupload-div #msupload-list .file .file-warning {
+    color: #ccc
+}
+
+#msupload-div #msupload-list .file .title_over {
+    background-color: rgba(255, 255, 255, .2);
+    border: 1px solid rgba(255, 255, 255, .5);
+    border-radius: 5px
+}
+
+#msupload-div #msupload-list .file .small_warn {
+    background: #fff6bf url(/extensions/MsUpload/images/msu_error-small.png) no-repeat scroll 0 center;
+    color: #333;
+    font-size: 95%;
+    overflow: hidden;
+    padding: 1px 1px 1px 15px;
+    width: 500px
+}
+
+.msupload-check-span {
+    color: #bbb
+}
+
+div.postedit {
+    -webkit-box-shadow: 0 2px 5px 0 #666;
+    background-color: #040404;
+    border: 1px solid #010101;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 #666;
+    color: #e0e0e0;
+    text-shadow: none
+}
+
+a.postedit-close {
+    color: #e0e0e0;
+    text-shadow: none;
+    opacity: 1
+}
+
+a.postedit-close:hover {
+    color: #e0e0e0
+}
+
+#mw-createaccount-join {
+    background-color: #ea8f20;
+    border-color: #ea8f20;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, .5)
+}
+
+div.mw-number-text,
+#bodyContent div.mw-number-text h3 {
+    color: inherit
+}
+
+#wikiEditor-ui-toolbar {
+    background-image: none
+}
+
+.oo-ui-popupWidget-popup {
+    border-color: #444
+}
+
+.mw-echo-ui-notificationItemWidget {
+    background-color: #1f1f1f
+}
+
+.mw-echo-ui-menuItemWidget-content {
+    color: #ddd !important
+}
+
+.mw-echo-ui-notificationItemWidget-content-message-header {
+    color: #fff
+}
+
+.mw-echo-ui-notificationItemWidget.oo-ui-optionWidget-selected,
+.mw-echo-ui-notificationItemWidget.oo-ui-optionWidget-highlighted {
+    background-color: #3f3f3f
+}
+
+div.wikiEditor-toolbar-dialog {
+    background-color: #202020;
+    border: solid 1px #f37f20
+}
+
+div.wikiEditor-toolbar-dialog .ui-dialog-buttonpane {
+    background-color: #202020
+}
+
+div.wikiEditor-toolbar-dialog label,
+div.wikiEditor-toolbar-dialog .wikieditor-toolbar-table-preview {
+    color: #e0e0e0
+}
+
+.mw-echo-ui-placeholderItemWidget {
+    background-color: inherit
+}
+
+.mw-echo-ui-notificationItemWidget:hover {
+    background-color: inherit
+}
+
+.oo-ui-buttonElement-frameless.oo-ui-widget-enabled>input.oo-ui-buttonElement-button,
+.oo-ui-buttonElement-frameless.oo-ui-widget-enabled>.oo-ui-buttonElement-button>.oo-ui-labelElement-label {
+    color: #fff !important
+}
+
+.mw-echo-ui-notificationItemWidget-content-actions-timestamp {
+    color: #fff
+}
+
+.oo-ui-buttonElement-framed.oo-ui-widget-enabled>.oo-ui-buttonElement-button {
+    background: #000;
+    color: #eee
+}
+
+.oo-ui-popupWidget .oo-ui-popupWidget-popup .oo-ui-buttonWidget:hover,
+.oo-ui-buttonElement-framed.oo-ui-widget-enabled>.oo-ui-buttonElement-button:hover {
+    background: #1a1a1a
+}
+
+.oo-ui-widget-footer {
+    margin: 0 !important
+}
+
+.oo-ui-popupWidget-popup .oo-ui-iconElement-icon,
+.mw-echo-ui-overlay .oo-ui-iconElement-icon {
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%)
+}
+
+.oo-ui-tabSelectWidget {
+    background-color: #303030;
+    color: #fff
+}
+
+.oo-ui-widget-enabled .oo-ui-optionWidget-selected {
+    background-color: #1a1a1a
+}
+
+.mw-prefs-buttons {
+    background: #1a1a1a
+}
+
+.oo-ui-labelElement-label {
+    color: #fff
+}
+
+.oo-ui-dropdownWidget-handle .oo-ui-labelElement-label {
+    color: #000
+}
+
+.oo-ui-dropdownWidget-handle .oo-ui-indicatorElement-indicator {
+    filter: invert(0%)
+}
+
+.oo-ui-tagMultiselectWidget.oo-ui-widget-enabled.oo-ui-tagMultiselectWidget-outlined .oo-ui-tagMultiselectWidget-handle {
+    background: 0 0
+}
+
+.oo-ui-tagMultiselectWidget.oo-ui-widget-enabled.oo-ui-tagMultiselectWidget-outlined .mw-rcfilters-ui-tagItemWidget-selected.oo-ui-tagItemWidget.oo-ui-widget-enabled {
+    background-color: #303030;
+    border-color: #f37f20
+}
+
+.mw-rcfilters-ui-filterMenuHeaderWidget-header {
+    background: #1a1a1a
+}
+
+.mw-rcfilters-ui-filterMenuSectionOptionWidget {
+    background: #1a1a1a
+}
+
+.mw-rcfilters-ui-filterMenuOptionWidget.oo-ui-flaggedElement-muted:not(.oo-ui-optionWidget-selected) {
+    background: #1a1a1a
+}
+
+.mw-rcfilters-ui-menuSelectWidget-footer {
+    background: #1a1a1a
+}
+
+.oo-ui-tagMultiselectWidget.oo-ui-widget-enabled.oo-ui-tagMultiselectWidget-outlined .oo-ui-tagItemWidget.oo-ui-widget-enabled {
+    background: #1a1a1a
+}
+
+.mw-rcfilters-ui-filterMenuSectionOptionWidget-header-title.oo-ui-labelElement-label {
+    color: #fff
+}
+
+.mw-rcfilters-ui-itemMenuOptionWidget-label-desc {
+    color: #c7c7c7
+}
+
+.mw-rcfilters-ui-itemMenuOptionWidget:hover {
+    background: #060606
+}
+
+.oo-ui-popupWidget {
+    z-index: 1003
+}
+
+.mw-widget-dateInputWidget-handle,
+.mw-widget-dateInputWidget-handle label,
+.oo-ui-radioInputWidget [type=radio]+span,
+.ui-autocomplete-input,
+.oo-ui-dropdownInputWidget.oo-ui-widget-enabled:hover,
+.oo-ui-dropdownWidget.oo-ui-widget-enabled.oo-ui-dropdownWidget-open .oo-ui-dropdownWidget-handle,
+.oo-ui-dropdownWidget-handle .oo-ui-labelElement-label,
+.oo-ui-dropdownWidget,
+.oo-ui-dropdownWidget.oo-ui-widget-enabled .oo-ui-dropdownWidget-handle,
+.oo-ui-dropdownWidget.oo-ui-widget-enabled .oo-ui-dropdownWidget-handle:hover,
+.oo-ui-textInputWidget .oo-ui-inputWidget-input {
+    background-color: #000;
+    color: #fff
+}
+
+.oo-ui-menuOptionWidget,
+.oo-ui-menuSectionOptionWidget,
+.oo-ui-tabOptionWidget.oo-ui-widget-enabled.oo-ui-optionWidget-selected:hover {
+    background-color: #000
+}
+
+.oo-ui-tagItemWidget.oo-ui-widget-enabled .oo-ui-buttonElement-button:hover {
+    background-color: rgba(125, 125, 125, .4)
+}
+
+.mw-apisandbox-toolbar {
+    background-color: #202020;
+    border: 1px solid #a2a9b1
+}
+
+.oo-ui-tagItemWidget.oo-ui-widget-enabled:not(.oo-ui-tagItemWidget-fixed),
+.oo-ui-outlineOptionWidget.oo-ui-optionWidget-highlighted,
+.oo-ui-buttonElement-framed.oo-ui-widget-disabled>.oo-ui-buttonElement-button,
+.oo-ui-checkboxInputWidget [type=checkbox]+span,
+.oo-ui-toggleSwitchWidget,
+.oo-ui-toggleSwitchWidget.oo-ui-widget-enabled:hover,
+.mw-widgets-datetime-dateTimeInputWidget-handle,
+.oo-ui-tagMultiselectWidget.oo-ui-widget-enabled .oo-ui-tagMultiselectWidget-handle,
+.oo-ui-textInputWidget.oo-ui-widget-enabled .oo-ui-inputWidget-input,
+.oo-ui-menuOptionWidget .oo-ui-optionWidget-highlighted,
+.oo-ui-dropdownWidget.oo-ui-widget-enabled.oo-ui-dropdownWidget-open .oo-ui-dropdownWidget-handle,
+.oo-ui-dropdownWidget.oo-ui-widget-enabled.oo-ui-dropdownWidget-open .oo-ui-dropdownWidget-handle:hover,
+.oo-ui-dropdownWidget.oo-ui-widget-enabled .oo-ui-dropdownWidget-handle:hover,
+.oo-ui-dropdownWidget-handle::-moz-focus-inner,
+.oo-ui-dropdownWidget.oo-ui-widget-enabled .oo-ui-dropdownWidget-handle {
+    background-color: #000;
+    color: #fff
+}
+
+.oo-ui-tagItemWidget.oo-ui-widget-disabled,
+.mw-widgets-datetime-dateTimeInputWidget.oo-ui-widget-disabled .mw-widgets-datetime-dateTimeInputWidget-handle,
+.oo-ui-tagMultiselectWidget.oo-ui-widget-disabled .oo-ui-tagMultiselectWidget-handle,
+.oo-ui-dropdownWidget.oo-ui-widget-disabled .oo-ui-dropdownWidget-handle,
+.oo-ui-textInputWidget.oo-ui-widget-disabled .oo-ui-inputWidget-input {
+    background-color: #000;
+    color: darkgrey
+}
+
+.oo-ui-iconElement-icon {
+    filter: invert(1)
+}
+
+.oo-ui-checkboxInputWidget {
+    filter: invert(1)
+}
+
+.oo-ui-buttonElement-framed.oo-ui-widget-disabled>.oo-ui-buttonElement-button>.oo-ui-iconElement-icon {
+    filter: unset
+}
+
+.oo-ui-popupWidget-popup,
+.oo-ui-window-body {
+    background-color: #000
+}
+
+#wpTextbox1 {
+    background-color: #000;
+    color: #fff
+}
+
+.oo-ui-labelWidget.oo-ui-inline-help {
+    color: #848a8f
+}
+
+.oo-ui-menuOptionWidget.oo-ui-optionWidget-highlighted {
+    background-color: #6c6e70
+}
+
+.wikiEditor-ui-toolbar .section-main .group-codemirror .mw-editbutton-codemirror-active {
+    background-color: #181818;
+    outline-color: #848080
+}
+
+.ui-widget-content {
+    color: #e0e0e0;
+    background: #222 none repeat scroll 0 0
+}
+
+.mw-mmv-title {
+    color: #222
+}
+
+.mw-datatable tr:hover td {
+    background-color: #000;
+    color: #fff
+}
+
+#mw-panel {
+    padding-top: 35px
+}
